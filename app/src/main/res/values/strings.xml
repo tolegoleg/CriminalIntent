@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Содержание криминала</string>
+    <string name="crime_title_label">Содержание</string>
+    <string name="crime_details_label">Детали</string>
+    <string name="crime_solved_label">Решено</string>
+    <string name="crime_policed_label">ВАЖНО !</string>
+    <string name="date_picker_title">Дата криминала</string>
+    <string name="time_picker_title">Время криминала</string>
+    <string name="new_crime">Новое дело</string>
+    <string name="show_subtitle">Показать подзаголовок</string>
+    <string name="hide_subtitle">Скрыть подзаголовок</string>
+
+    <string name="delete_crime">Удалить дело</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+
+    <string name="btn_if_empty_add">Список пуст.\nДобавить новое дело.</string>
+    <string name="crime_suspect_text">Choose suspect</string>
+    <string name="crime_report_text">Send crime report</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s and %4$s.</string>
+    <string name="crime_report_solved">The case is solved.</string>
+    <string name="crime_report_unsolved">The case is not solved.</string>
+    <string name="crime_report_no_suspect">thear is no suspect.</string>
+    <string name="crime_report_suspect">the suspect is %1$s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+
+    <string name="photo_title">Фото преступления</string>
+</resources>
